@@ -46,5 +46,5 @@ Hereafter, the server can be woken with `./wake_on_lan.sh <MAC_ADDRESS>`
 
 After setup, files can be transfered with SFTP by starting an SFTP session `sftp <alias>`
 
-### 5. Forwrd GUI applications with Waypipe
+### 5. Forward GUI applications with Waypipe
 A server with running wayand can render and forward GUI applications through SSH with Waypipe. This can be done with command `waypipe ssh <alias> <application>`
